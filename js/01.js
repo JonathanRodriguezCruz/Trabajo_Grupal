@@ -13,4 +13,3 @@ function run(){
     result.innerHTML=data.
     value;
 }
-
