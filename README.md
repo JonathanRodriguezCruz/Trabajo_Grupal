@@ -1,14 +1,10 @@
 # Trabajo grupal
 
-Nuestra animación lo que hace es mostrarte como se vería el código en pantalla
+Este proyecto trata de un editor de texto HTML
 
-## Installation
+## Idea del proyecto
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+Este proyecto surgio a raíz del siguiente video [Aquí](https://www.youtube.com/shorts/At_XUyXEcmw "Aquí") 
 
 ## Usage
 
